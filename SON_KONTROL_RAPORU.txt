@@ -1,0 +1,12 @@
+Özel Ders Pro v2.0.0 Son Kontrol Raporu
+
+[OK] main.dart exists
+[OK] pubspec.yaml exists
+[OK] AndroidManifest exists
+[OK] WhatsApp function exists
+[OK] Splash has by SezR
+[OK] Developer name exists
+[OK] Turkish chars exist
+[OK] No placeholder empty screenshots
+
+Not: Bu ortamda Flutter SDK olmadığı için gerçek 'flutter analyze' ve APK build çalıştırılamadı. Bilgisayarda ilk deneme için README içindeki komutları kullanın.
